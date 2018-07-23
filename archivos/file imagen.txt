@@ -1,0 +1,1 @@
+/system copy /b 1.txt+2.rar 3.txt

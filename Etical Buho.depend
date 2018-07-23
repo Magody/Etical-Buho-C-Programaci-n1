@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1503355883 source:c:\users\user\documents\programacion1\etical buho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<winalleg.h>
+	<string.h>
+	"constantes.h"
+	"inicializacion.h"
+	"jugabilidad.h"
+	"manejoArchivos.h"
+	"objetoPiano.h"
+	"pcProtagonista.h"
+	"pokiman.h"
+
+1503255023 c:\users\user\documents\programacion1\etical buho\inicializacion.h
+
+1503358128 c:\users\user\documents\programacion1\etical buho\manejoarchivos.h
+
+1503155604 c:\users\user\documents\programacion1\etical buho\jugabilidad.h
+
+1501820506 c:\users\user\documents\programacion1\etical buho\bitmaps.h
+
+1501819838 c:\users\user\documents\programacion1\etical buho\headers\inicializacion.h
+
+1501816138 c:\users\user\documents\programacion1\etical buho\headers\jugabilidad.h
+
+1501858196 c:\users\user\documents\programacion1\etical buho\headers\manejoarchivos.h
+
+1501907038 c:\users\user\documents\programacion1\etical buho\computadoraprota.h
+
+1501907038 c:\users\user\documents\programacion1\etical buho\headers\computadoraprota.h
+
+1501907709 c:\users\user\documents\programacion1\etical buho\headers\pcprotagonista.h
+
+1503254424 c:\users\user\documents\programacion1\etical buho\constantes.h
+
+1503355883 c:\users\user\documents\programacion1\etical buho\pcprotagonista.h
+	"programaPoliPiano.h"
+	"programaBloc.h"
+	"programaFsociety.h"
+	"ProgramaDelfinQuishpeSQLmasmas.h"
+
+1502058759 c:\users\user\documents\programacion1\etical buho\polipiano.h
+
+1503360045 c:\users\user\documents\programacion1\etical buho\programabloc.h
+
+1503357510 c:\users\user\documents\programacion1\etical buho\programafsociety.h
+
+1503189930 c:\users\user\documents\programacion1\etical buho\programapolipiano.h
+
+1503190158 c:\users\user\documents\programacion1\etical buho\objetopiano.h
+
+1503359665 c:\users\user\documents\programacion1\etical buho\programadelfinquishpesqlmasmas.h
+
+1503358310 c:\users\user\documents\programacion1\etical buho\pokiman.h
+
+1503691248 source:c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<winalleg.h>
+	<string.h>
+	"constantes.h"
+	"inicializacion.h"
+	"jugabilidad.h"
+	"manejoArchivos.h"
+	"objetoPiano.h"
+	"pcProtagonista.h"
+	"pokiman.h"
+
+1503254424 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\constantes.h
+
+1503255023 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\inicializacion.h
+
+1503155604 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\jugabilidad.h
+
+1503358128 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\manejoarchivos.h
+
+1503190158 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\objetopiano.h
+
+1503355883 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\pcprotagonista.h
+	"programaPoliPiano.h"
+	"programaBloc.h"
+	"programaFsociety.h"
+	"ProgramaDelfinQuishpeSQLmasmas.h"
+
+1503189930 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\programapolipiano.h
+
+1503360045 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\programabloc.h
+
+1503357510 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\programafsociety.h
+
+1503359665 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\programadelfinquishpesqlmasmas.h
+
+1503358310 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\pokiman.h
+
+1503691248 source:c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<winalleg.h>
+	<string.h>
+	"constantes.h"
+	"inicializacion.h"
+	"jugabilidad.h"
+	"manejoArchivos.h"
+	"objetoPiano.h"
+	"pcProtagonista.h"
+	"pokiman.h"
+
+1503254424 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\constantes.h
+
+1503255023 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\inicializacion.h
+
+1503155604 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\jugabilidad.h
+
+1503358128 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\manejoarchivos.h
+
+1503190158 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\objetopiano.h
+
+1503355883 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\pcprotagonista.h
+	"programaPoliPiano.h"
+	"programaBloc.h"
+	"programaFsociety.h"
+	"ProgramaDelfinQuishpeSQLmasmas.h"
+
+1503189930 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\programapolipiano.h
+
+1503360045 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\programabloc.h
+
+1503357510 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\programafsociety.h
+
+1503359665 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\programadelfinquishpesqlmasmas.h
+
+1503358310 c:\users\user\documents\lenguajes programacion\programacion 1\etical buho\etical buho\pokiman.h
+

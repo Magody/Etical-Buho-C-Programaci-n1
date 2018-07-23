@@ -1,0 +1,19 @@
+objetivos
+1.-Aplicar el conocimiento obtenido en la materia de Programacion 1
+2.-Modelar la estructura de un mini sistema operativo
+3.-Modelar un piano funcional a traves del teclado
+4.-Transcribir toda la informacion posible usando los metodos conocidos de los archivos
+5.-Replicar una base de datos a la cual se pueda: agregar,eliminar,modificar informacion de personas
+6.-Establecer un vinculo entre la base de datos y el programa para sdecifrar una contraseña en tiempo real.
+
+Conclusiones:
+1.-De la base de datos. La manera para configurar cambios en la base de datos en tiempo real es: estableciendo una estructura de tipo persona con sus caracteristicas. Modificar una estructura en el programa nos permite apreciar los cambios en tiempo real.
+2.-Del programa "fsociety", concretamente de su utilidad "/permutar [texto] [texto]" la funcion "memmove()" es una manera rápida de intercambiar la letra de una palabra por otra letra:
+	memmove("Oldstring","Newstring",2);
+	la primera palabra(que debe ser variable), ahora tiene el valor de "Nedstring" se intercambio las 2 primeras letras. 
+3.-Del piano funcional programado. Las melodias en alta calidad que soporta la libreria Allegro son "wav" y ocupan hasta diez veces mas el espacio que ocuparia un archivo mp3.
+
+Recomendaciones:
+1.-Para reproducir una nota de piano se debe ubicar la funcion propia de windows.h llamada "Sleep()" con el paraemetro en milisegundos del retraso con que sonara la siguiente nota.
+2.-Para borrar una linea de un bloc de notas. Se debe copiar todo el texto del archivo a otro temporal, luego mediante "strstr()" y "fgets(,,)" validaremos que se copia y que no. primero obtenemos toda la linea de texto en una variable sea cual sea la linea y verificamos si la palabra clave que ingresamos se encuentra dentro, en caso afirmativo, esa linea no la copiaremos y copiaremos todo lo demas.
+3.-Utilizar la herramienta paint y su dibujo de formas para establecer el tamaño de pixeles y distancias en pixeles ya que es una herramienta facil de notar esos limites solo ubicando el cursor en la imagen de mapa de bits.
